@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Product Owner Resume & Portfolio</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+    <nav class="container-fluid">
+        <ul>
+            <li><strong>Product Owner Portfolio</strong></li>
+        </ul>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact" role="button">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main class="container">
+        <div class="grid">
+            <section>
+                <hgroup>
+                    <h2>Welcome to My Portfolio</h2>
+                    <h3>Product Owner | Innovator | Strategist</h3>
+                </hgroup>
+                <p>Hello! I am a Product Owner passionate about delivering exceptional digital experiences and solutions. With expertise in agile methodologies, strategic planning, and stakeholder collaboration, I bring ideas to life efficiently and effectively.</p>
+                <figure>
+                    <img src="https://source.unsplash.com/800x600/?technology,workspace" alt="Professional workspace">
+                    <
